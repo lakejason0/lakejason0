@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lakejason0 from [Project Archive](https://files.lakejason0.ml/wiki/User_talk:Lakejason0) and [Minecraft Wiki](https://minecraft-zh.gamepedia.com/User:Lakejason0). You can contact me on those two talk pages or by comments on [my blog](https://lakejason0.wordpress.com).
+I'm Lakejason0 from [Project Archive](https://files.lakejason0.ml/wiki/User_talk:Lakejason0) and [Minecraft Wiki](https://minecraft-zh.gamepedia.com/User:Lakejason0). You can contact me on those two talk pages or comment sections on [my blog](https://lakejason0.wordpress.com).
 
 I'm currently working on translating Minecraft (Vanilla, Sodium and some other Fabric mods, Wiki, [SPYGlass](https://github.com/SPYGlassMC/SPYGlass) etc.) and writing articles on my Wiki, Project Archive. I'm more than glad to help you with Chinese localization, both in Simplified (Native) and Traditional.
 
