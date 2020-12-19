@@ -12,7 +12,7 @@ Don't hesitate to contact me if you've noticed something that doesn't seem right
 
 如果你注意到我的某个项目（无论是什么）的某个地方有点问题，不用犹豫，可以直接联系我。
 
-### 你好 👋
+### 您好 👋
 我是來自[存檔計畫](https://files.lakejason0.ml/wiki/User_talk:Lakejason0)和[中文Minecraft Wiki](https://minecraft-zh.gamepedia.com/User:Lakejason0)的Lakejason0。您可以在上方連結中的兩個討論頁或是在[我的網誌](https://lakejason0.wordpress.com)上留言。
 
 我目前致力於翻譯Minecraft（原版，Sodium和其他Fabric模組，Wiki，[SPYGlass](https://github.com/SPYGlassMC/SPYGlass)等）相關內容和在我自己的wiki「存檔計畫」上寫文章。我可以提供中文在地化的有關幫助，簡體和繁體均可。
