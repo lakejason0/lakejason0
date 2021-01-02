@@ -17,4 +17,4 @@ Don't hesitate to contact me if you've noticed something that doesn't seem right
 
 我目前致力於翻譯Minecraft（原版，Sodium和其他Fabric模組，Wiki，[SPYGlass](https://github.com/SPYGlassMC/SPYGlass)等）相關內容和在我自己的wiki「存檔計畫」上寫文章。我可以提供中文在地化的有關幫助，簡體和繁體均可。
 
-如果您注意到我的某個項目（無論是什麼啦）的某個地方有點小問題，不要猶豫，直接聯繫我吧！
+如果您注意到我的某個項目（無論是什麼啦）的某個地方有點小問題，不要猶豫，直接聯絡我吧！
