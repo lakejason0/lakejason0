@@ -25,6 +25,4 @@ Don't hesitate to contact me if you've noticed something that doesn't seem right
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakejason0&layout=compact)
 
-![GitHub 4 Life](https://github4life.herokuapp.com/lakejason0.gif)
-
 [![Lakejason0's github stats](https://github-readme-stats.vercel.app/api?username=lakejason0&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
